@@ -1,0 +1,15 @@
+C:\Users\dellb\source\repos\SortedList_86\SortedList_86\bin\Debug\SortedList_86.exe.config
+C:\Users\dellb\source\repos\SortedList_86\SortedList_86\bin\Debug\SortedList_86.exe
+C:\Users\dellb\source\repos\SortedList_86\SortedList_86\bin\Debug\SortedList_86.pdb
+C:\Users\dellb\source\repos\SortedList_86\SortedList_86\obj\Debug\SortedList_86.csprojAssemblyReference.cache
+C:\Users\dellb\source\repos\SortedList_86\SortedList_86\obj\Debug\MainWindow.g.cs
+C:\Users\dellb\source\repos\SortedList_86\SortedList_86\obj\Debug\App.g.cs
+C:\Users\dellb\source\repos\SortedList_86\SortedList_86\obj\Debug\SortedList_86_MarkupCompile.cache
+C:\Users\dellb\source\repos\SortedList_86\SortedList_86\obj\Debug\SortedList_86_MarkupCompile.lref
+C:\Users\dellb\source\repos\SortedList_86\SortedList_86\obj\Debug\MainWindow.baml
+C:\Users\dellb\source\repos\SortedList_86\SortedList_86\obj\Debug\SortedList_86.g.resources
+C:\Users\dellb\source\repos\SortedList_86\SortedList_86\obj\Debug\SortedList_86.Properties.Resources.resources
+C:\Users\dellb\source\repos\SortedList_86\SortedList_86\obj\Debug\SortedList_86.csproj.GenerateResource.cache
+C:\Users\dellb\source\repos\SortedList_86\SortedList_86\obj\Debug\SortedList_86.csproj.CoreCompileInputs.cache
+C:\Users\dellb\source\repos\SortedList_86\SortedList_86\obj\Debug\SortedList_86.exe
+C:\Users\dellb\source\repos\SortedList_86\SortedList_86\obj\Debug\SortedList_86.pdb
